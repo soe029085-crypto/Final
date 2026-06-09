@@ -1,6 +1,0 @@
-{
-  "name": "宠物诊断所",
-  "description": "一款舒缓解压的复古像素风模拟游戏，在三个特色窗口（诊疗、美容、跑道训练）中全面呵护并打理前来拜访的超萌幻想生灵。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
